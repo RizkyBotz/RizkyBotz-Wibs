@@ -1,22 +1,22 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = ['6283834558105']
-global.premium = ['6283834558105']
+global.owner = ['6285876810596']
+global.premium = ['6285876810596']
 global.packname = ''
-global.author = 'Wa :62882016646288\nYT : WANGAMING\nIG : wz_store12\nGH : WibsBotz\nTT : wz_store12'
+global.author = 'Wa :6285876810596\nYT : WANGAMING\nIG : rizzkymaa\nGH : WibsBotz\nTT : ultramenbiruu22'
 global.sessionName = 'WzFames'
-global.namabotnya = 'Wz Bot'
-global.namaownernya = 'Wz Store'
+global.namabotnya = 'Rizz-Botz'
+global.namaownernya = 'Rizki Muhammad Adam'
 global.dapkey = 'Kirbotz123'
 global.lolkey = 'Atakbotz'
 global.kirkey = 'KirBotz'
-global.wame = 'https://wa.me/62882016646288'
-global.gckirbotz = 'https://chat.whatsapp.com/L1xzgFdSo3JFu8yXeTtrbM'
-global.ownerNumber = ["62882016646288@s.whatsapp.net"]
+global.wame = 'https://wa.me/6285876810596'
+global.gckirbotz = 'https://chat.whatsapp.com/L1xzgFdSo3JFuHyfXeTtrbM'
+global.ownerNumber = ["6285876810596@s.whatsapp.net"]
 global.email = 'gamingwan92@gmail.com'
-global.yt = 'https://youtube.com/channel/UCsQHOaoM4b1ta7bZVLvc_Pg'
-global.webkir = 'https://youtube.com/channel/UCsQHOaoM4b1ta7bZVLvc_Pg'
+global.yt = 'https://youtube.com/RIZZKY FAMES'
+global.webkir = 'https://youtube.com/channel/UCsQHOaoM4b1tahyGZVLvc_Pg'
 global.githubkir = 'Belum ada'
 global.region = 'Indonesia'
 global.prefa = ['','!','.','#','-','•']
@@ -39,7 +39,7 @@ global.mess = {
 
 global.limitawal = {
     premium: "Infinity",
-    free: 30
+    free: 10
 }
 
 
