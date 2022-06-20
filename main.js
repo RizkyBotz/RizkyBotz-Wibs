@@ -103,7 +103,7 @@ console.log(anu)
 
 cangton = `Welcome ${num.split("@")[0]}, 😄
 
-*_JANGAN LUPA INTRO_*
+*_JANGAN LUPA INTRO KIDSS_*
 ️Nama :
 Umur :
 Hobby :
@@ -112,43 +112,43 @@ Asal Kota :
 
 Descripsi Grup: ${metadata.desc}
 
-Semoga Betah Kak ><`
+Semoga Betah Kidss ><`
 cangtion = `${num.split("@")[0]}, Yah Beban Nya Keluar 😓` 
 let nama = await kirbotz.getName(num)
 memb = metadata.participants.length
 let btn = [{
 urlButton: {
 displayText: '🧸ＹＯＵＴＵＢＥ',
-url: 'https://youtube.com/channel/UCsQHOaoM4b1ta7bZVLvc_Pg'
+url: 'https://youtube.com/channel/RIZZKY FAMES'
 }
 }, 
 {
 urlButton: {
 displayText: '☠️ＯＷＮＥＲ',
-url: 'https://wa.me/62882016646288'
+url: 'https://wa.me/6285876810596'
 }
 },
 {
 quickReplyButton: {
-displayText: 'ＷＥＬＣＯＭＥ',
+displayText: 'WELCOME KIDSS TOD',
 id: 'welcome'
 }
 }]
 let bton = [{
 urlButton: {
 displayText: '🧸ＹＯＵＴＵＢＥ',
-url: 'https://youtube.com/channel/UCsQHOaoM4b1ta7bZVLvc_Pg'
+url: 'https://youtube.com/channel/RIZZKY FAMES'
 }
 }, 
 {
 urlButton: {
 displayText: '☠️ＯＷＮＥＲ',
-url: 'https://wa.me/62882016646288'
+url: 'https://wa.me/6285876810596'
 }
 },
 {
 quickReplyButton: {
-displayText: 'ＢＹＥ ＢＥＢＡＮ',
+displayText: 'BYEE KIDSS',
 id: 'bye'
 }
 }]                  
