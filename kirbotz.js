@@ -484,7 +484,7 @@ const fakekirbotz = {
   message: {
     imageMessage: {
       mimetype: 'image/jpeg',
-      caption: 'Created By Wz Botz',
+      caption: 'Created By Rizki Muhammad Adam',
       jpegThumbnail: ppnyauser,
       viewOnce: true
     }
@@ -1270,7 +1270,7 @@ hydratedButtons: [
 {
 urlButton: {
 displayText: 'Owner Bot',
-url: 'https://wa.me/62882016646288'
+url: 'https://wa.me/6285876810596'
 }
 }]
 }
@@ -1559,17 +1559,17 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: `Gelap Bos:v`,
-hydratedFooterText: 'Created By Wz Botz',
+hydratedFooterText: 'Created By Rizki Muhammad Adam',
 hydratedButtons: [{
 urlButton: {
 displayText: 'MyGithub',
-url: 'https://github.com/Wz Botz'
+url: 'https://github.com/RizkyBotz'
 }
 },
 {
 urlButton: {
 displayText: 'MyOwner',
-url: 'https://wa.me/62882016646288'
+url: 'https://wa.me/6285876810596'
 }
 },
 {"quickReplyButton": {"displayText": "Next","id": `${prefix+command}`}}]
@@ -1594,17 +1594,17 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: `Gelap Bos:v`,
-hydratedFooterText: 'Created By Wz Botz',
+hydratedFooterText: 'Created By Rizki Muhammad Adam',
 hydratedButtons: [{
 urlButton: {
 displayText: 'MyGithub',
-url: 'https://github.com/Wz Botz'
+url: 'https://github.com/RizkyBotz'
 }
 },
 {
 urlButton: {
 displayText: 'MyOwner',
-url: 'https://wa.me/62882016646288'
+url: 'https://wa.me/6285876810596'
 }
 },
 {"quickReplyButton": {"displayText": "Next","id": `${prefix+command}`}}]
@@ -1629,17 +1629,17 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: `Gelap Bos:v`,
-hydratedFooterText: 'Created By Wz Botz',
+hydratedFooterText: 'Created By Rizki Muhammad Adam',
 hydratedButtons: [{
 urlButton: {
 displayText: 'MyGithub',
-url: 'https://github.com/Wz Botz'
+url: 'https://github.com/RizkyBotz'
 }
 },
 {
 urlButton: {
 displayText: 'MyOwner',
-url: 'https://wa.me/62882016646288'
+url: 'https://wa.me/6285876810596'
 }
 },
 {"quickReplyButton": {"displayText": "Next","id": `${prefix+command}`}}]
@@ -1664,17 +1664,17 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: `Gelap Bos:v`,
-hydratedFooterText: 'Created By Wz Botz',
+hydratedFooterText: 'Created By Rizki Muhammad Adam',
 hydratedButtons: [{
 urlButton: {
 displayText: 'MyGithub',
-url: 'https://github.com/Wz Botz'
+url: 'https://github.com/RizkyBotz'
 }
 },
 {
 urlButton: {
 displayText: 'MyOwner',
-url: 'https://wa.me/62882016646288'
+url: 'https://wa.me/6285876810596'
 }
 },
 {"quickReplyButton": {"displayText": "Next","id": `${prefix+command}`}}]
@@ -1699,17 +1699,17 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: `Gelap Bos:v`,
-hydratedFooterText: 'Created By Wz Botz',
+hydratedFooterText: 'Created By Rizki Muhammad Adam',
 hydratedButtons: [{
 urlButton: {
 displayText: 'MyGithub',
-url: 'https://github.com/Wz Botz'
+url: 'https://github.com/RizkyBotz'
 }
 },
 {
 urlButton: {
 displayText: 'MyOwner',
-url: 'https://wa.me/62882016646288'
+url: 'https://wa.me/6285876810596'
 }
 },
 {"quickReplyButton": {"displayText": "Next","id": `${prefix+command}`}}]
